@@ -1,0 +1,7 @@
+﻿  AdressBook.cpp
+c:\users\алёна\source\repos\spravoch\adressbook.cpp(11): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\алёна\source\repos\spravoch\adressbook.cpp(12): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\алёна\source\repos\spravoch\adressbook.cpp(62): warning C4018: <: несоответствие типов со знаком и без знака
+  Source.cpp
+  Создание кода...
+  spravoch.vcxproj -> C:\Users\Алёна\source\repos\spravoch\Debug\spravoch.exe
