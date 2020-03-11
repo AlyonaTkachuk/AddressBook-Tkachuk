@@ -1,8 +1,11 @@
+
 # Prerequisites
 *.d
 
 # VS files
+.vs/
 .vs\
+Debug/
 Debug\
 *.sln
 *.vcxproj
@@ -39,3 +42,4 @@ Debug\
 *.exe
 *.out
 *.app
+.vs/spravoch/v15/.suo
