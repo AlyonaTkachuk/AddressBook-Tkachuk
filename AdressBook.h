@@ -17,6 +17,5 @@ private:
 	AdressBook();
 	AdressBook(const AdressBook&) = delete;
 	AdressBook*operator=(const AdressBook&) = delete;
-	
 };
 

@@ -64,6 +64,9 @@ void AdressBook::print() {
 		cout << "AGE  " << infa[i].voz << endl;
 		cout << "TL   " << infa[i].tel << endl << endl;
 	}
+	cout << endl;
+	cout << infa.size();
+	cout << endl;
 }
 AdressBook::AdressBook()
 {

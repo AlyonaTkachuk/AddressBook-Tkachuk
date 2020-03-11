@@ -18,7 +18,7 @@ int main() {
 			d.add(Contact(f + ' ' + i + ' ' + o, voz, tel));
 		}
 	} while (flag == 'y');
-		cout << "Sotr by:" << endl << "1 FIO" << endl << "2 AGE" << endl << "3 TL" << endl;
+		cout << "Sort by:" << endl << "1 FIO" << endl << "2 AGE" << endl << "3 TL" << endl;
 		cout << "enter number: ";
 		int num;
 		cin >> num;
